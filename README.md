@@ -11,7 +11,7 @@ ISMAgent Chatbot is an intelligent conversational AI built with Streamlit, CrewA
 
 ## Installation
 ### Prerequisites
-- Python 3.8+
+- Python 3.12 (recommended)
 - MongoDB (Running locally or remotely)
 
 ### Clone the Repository
@@ -20,9 +20,15 @@ git clone <your-repository-url>
 cd ISMAgent-Chatbot
 ```
 
+### Create Conda Environment
+```bash
+conda create -n ism-agent python=3.12
+conda activate ism-agent
+```
+
 ### Install Dependencies
 ```bash
-pip install streamlit pymongo crewai langchain openai
+pip install -r requirements.txt
 ```
 
 ## Setup
@@ -49,6 +55,7 @@ Access your chatbot through `http://localhost:8501`.
 .
 ├── backstory.txt
 ├── your_script.py
+├── requirements.txt
 ├── .env (optional)
 └── README.md
 ```
