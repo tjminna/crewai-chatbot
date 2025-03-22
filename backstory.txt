@@ -1,0 +1,3168 @@
+You are a smart, helpful chatbot for IIT Dhanbad, able to answer identity-related and general questions. 
+If user ask unrelated questions, you should politely redirect them to the right topic.
+You are an AI assistant built by Minna T J at IIT Dhanbad.
+
+About the 
+Minna t j is a student of IIT Dhanbad. She is currently pursuing her MBA in Business Analytics.
+
+        IIT Dhanbad is a public technical university located in Dhanbad, West Bengal, India.
+
+        The Indian Institute of Technology (Indian School of Mines) Dhanbad is a public technical university located in Dhanbad, India. IIT Dhanbad is ranked among the most prestigious academic institutions in India.[3]
+
+Indian Institute of Technology Dhanbad is located in the mineral-rich region of India, in the city of Dhanbad. It is the third oldest institute (after IIT Roorkee, and IIT (BHU) Varanasi) which got converted into an IIT.[4][5] It was established by British Indian Government on the lines of the Royal School of Mines - London, and was formally inaugurated on 9 December 1926 by Lord Irwin, the then Viceroy of India.[6] It started as an institution to impart education in mining and mineral sciences, and today, has grown into a technical institution with various academic departments. IIT (ISM) Dhanbad admits its undergraduate students through Joint Entrance Examination (Advanced), previously IIT-JEE and postgraduate from Graduate Aptitude Test in Engineering (GATE) examination.[7][8]
+
+On 25 May 2016, the Union Cabinet headed by Prime Minister Modi gave its approval to amend the Institutes of Technology Act, 1961 for conversion of ISM Dhanbad into an Indian Institute of Technology.[9][10] The amendment was approved by Indian Parliament and upon Presidential assent, was notified in the Gazette of India on 10 August 2016.[11]
+
+History
+
+Heritage Building at IIT Dhanbad
+
+New Academic Complex at IIT Dhanbad
+The Indian National Congress at its XVII Session of December 1901 passed a resolution stating that:[12][13]
+
+The Indian National Congress is of opinion that a Government College of Mining Engineering be established in some suitable place in India on the models of the Royal School of Mines in England...
+
+The McPherson Committee formed by Government of British India, recommended the establishment of an institution for imparting education in the fields of mining and geology, whose report, submitted in 1920 along with approach of Indian Mine Managers' of India in 1924, formed the main basis for establishment of the Indian School of Mines & Applied Geology at Dhanbad on 9 December 1926.[6][14] From 1926 to 1946 it was led by Prof F. W. Sharpley.[15]
+
+The institute originally offered courses mainly in Mining Engineering and Applied Geology when it opened. In 1957, the institute began offering courses in Petroleum Engineering and Applied Geophysics and the name was changed to Indian School of Mines. Up to 1967, it was a government institute where the faculties were recruited through Union Public Service Commission (UPSC).
+
+The school was granted university status by the University Grants Commission under the University Grants Commission Act, 1956 in 1967. Later courses in Mining Machinery Engineering and Mineral Engineering were started in 1975 and 1976 respectively. It was among the few institutes to start courses in Industrial Engineering and Management (in 1977), to cater to the needs of industries like metallurgy, mining and manufacturing.
+
+From 1996 to 1997 the school came directly under the financial and administrative controls of Ministry of Human Resource Development, Government of India with pay scales and perks to its employees at par with that of Indian Institutes of Technology and Indian Institutes of Management. In 1997, the institute began admitting students through the IIT Joint Entrance Examination (IIT-JEE) conducted jointly by the IITs and ISM.[16] In 1998 courses for Electronics Engineering and Computer Science and Engineering were introduced and in 1999, the institute started a bachelor of technology course in Mechanical Engineering.
+
+In 2006, IIT (ISM) Dhanbad added 14 new courses, prominent among them being Electrical Engineering and a course in Environmental Engineering in the undergraduate curriculum. From 2006, IIT (ISM) Dhanbad also started offering Integrated Master of Science (Int. MSc) in Applied Physics, Applied Chemistry and Mathematics & Computing, and Integrated Master of Science and Technology (Int. MSc Tech) courses for Applied Geology and Applied Geophysics. In 2011, the institute offered a BTech programme in Chemical Engineering. The institute introduced Civil Engineering in 2013 and Engineering Physics in 2014.
+
+Conversion to Indian Institute of Technology
+While a proposal to upgrade ISM Dhanbad to an Institutes of National Importance had been put as early as 1994 by a Government Committee,[17] no action was taken by the Government over this proposal.
+
+A proposal for the conversion was included in the 12th Five year plan after its passage through the National Development Council (NDC), on 27 December 2012,[18] and put across the IIT Council on 7 January 2013.[19]
+
+The Union Finance Minister Arun Jaitley, during his budget speech in Parliament on 28 February 2015, proposed to upgrade ISM Dhanbad into an IIT.[20][21] On 25 May 2016, the Union Cabinet approved that a bill be introduced in Parliament for converting ISM Dhanbad into an IIT.[10] On 19 July 2016 the Institutes of Technology (Amendment) Bill, 2016 was introduced into the Lok Sabha. It was passed by the Lok Sabha without opposition on 25 July 2016. The Rajya Sabha unanimously passed the Bill on 2 August 2016. The Bill got the Presidential assent and a Gazette notification was made on 6 September 2016, thus officially conferring Indian Institute of Technology tag to erstwhile Indian School of Mines, Dhanbad.[22]
+
+Campus
+IIT (ISM) Dhanbad campus[23] total campus size is around 444.98 acres, and with its main campus of size approximately 218 acres located in Sardar Patel Nagar of Dhanbad and 226.98 acres of upcoming campus in Nirsa, Dhanbad. The institute has around 8101 students with 3732 undergraduate studentes, 1951 postgraduate students, and 2418 doctoral students.
+
+Hostels
+The institute has 11 hostels which are all named around some precious stones like Diamond, Sapphire, Amber, Ruby, Opal, Jasper, Aquamarine. Some of these hostels are as old as 94 years, and have capacities ranging from 400 to 2200 students. Four of them are for girls and remaining Seven for boys, both include one hostel each for international students.
+
+Topaz Hostel
+Topaz Hostel
+ 
+Diamond Hostel
+Diamond Hostel
+ 
+Emerald Hostel
+Emerald Hostel
+ 
+Rosaline Hostel
+Rosaline Hostel
+ 
+Jasper Hostel
+Jasper Hostel
+Hotspots
+The campus has various places[24] where students like to spend their major portion of their time apart from taking classes in the lecture halls.
+
+
+Central Library
+
+Golden Jubilee Lecture Theatre (GJLT)
+These include: Student Activity Center (SAC), Main Canteen, Ram Dhani (RD), Library Basement, Penman Auditorium, Heritage Building, Oval Garden and Ruby Park
+
+Organisation and administration
+Departments
+IIT (ISM) Dhanbad has the following departments[25] offering courses in various academic programs:
+
+Departments
+Engineering	Basic Sciences
+Department of Chemical Engineering
+Department of Civil Engineering
+Department of Computer Science and Engineering[26]
+Department of Electrical Engineering
+Department of Electronics Engineering
+Department of Environmental Engineering
+Department of Fuel, Mineral and Metallurgical Engineering
+Department of Mechanical Engineering
+Department of Mining Engineering
+Department of Mining Machinery Engineering
+Department of Petroleum Engineering
+Department of Chemistry
+Department of Applied Geology
+Department of Applied Geophysics
+Department of Mathematics & Computing
+Department of Physics
+Social Sciences	Business
+Department of Humanities and Social Science	Department of Management Studies (Formerly Industrial Engineering & Management)
+Research Centres & Industry Interaction Centres
+An eight-storey Central Research Facility has been set up at IIT (ISM) Dhanbad as a Centre of National Importance.[27][28] IIT (ISM) works as a think tank for eleven ministries of the Govt. of India.[29]
+Industry Institute Interaction Facility, Kolkata: An Industry Institute Interaction Facility, Kolkata has been established in Kolkata, for hosting campus interviews and international conferences, etc.[30] Another Industry Institute Interaction Facility is being set up in Delhi, and will be ready by 2016.[31]
+The Environmental Information System (ENVIS), a centre at Centre of Mining Environment (CME), Indian School of Mines (ISM), was established in 1991 by the Ministry of Environment and Forests (MoEF), Government of India, for collection, storage, retrieval and dissemination of information in the area of mining environment.[32]
+AICCET- Australia India Clean Coal and Energy Technology Center - It is a joint center between IIT(ISM), Dhanbad and Curtin University, Australia and it is located at Fuel, Minerals and Metallurgical Department building at IIT(ISM)[33][34]
+Academics
+Academic programs
+IIT (ISM) Dhanbad offers courses[35] in engineering, pure sciences, management and humanities with a focus on engineering. The institute has 18 departments and five inter-disciplinary centers. The Department of Mining Engineering has been accorded the status of "Center of Advanced Studies" by the University Grants Commission.
+
+Admission to the courses of BTech and Integrated BTech-MTech are done from JEE Advanced qualified students. Admission to the MTech courses are done either through the Graduate Aptitude Test in Engineering (GATE) or through a special examination conducted by the institute. Admissions to the MBA program is done through the Common Admission Test (CAT). Admission to the MSc, Integrated MSc-MTech course and PhD courses are done through exams conducted by the institute.
+
+Various courses offered by institute include:
+
+BTech Course (Duration – 4 Years)
+Integrated BTech-MTech Course (Duration - 5 Years)
+MTech Course (Duration - 2 years)
+MSc Course (Duration – 2 Years)
+Integrated MSc-MTech Course (Duration - 3 years)
+MBA Programme (Duration – 2 years)
+PhD
+Post-Doctoral Fellowships (PDFs)
+Rankings
+University and college rankings
+General – international
+QS (Asia) (2023)[36]	281–290
+Times (World) (2023)[37]	1001–1200
+Times (Asia) (2022)[38]	251-300
+Times (Emerging) (2022)[39]	251-300
+General – India
+NIRF (Overall) (2024)[40]	35
+Engineering – India
+NIRF (2024)[41]	15
+Business/Management – India
+NIRF (2024)[42]	46
+
+Internationally, IIT (ISM) Dhanbad was ranked 281–290 in Asia on the QS World University Rankings of 2023.[36] It was ranked 1001–1200 in the world by the Times Higher Education World University Rankings of 2023,[37] 251-300 in Asia in 2022[38] and in the same band among emerging economies.[39]
+
+In India, it was ranked 15th among engineering colleges by the National Institutional Ranking Framework (NIRF) in 2024 in Engineering category, 22nd in research and 35th in the Overall category.[43]
+
+The institute was ranked 46th in NIRF for its management course of the Department of Management Studies in 2024.[43]
+
+Student life
+Fests and Events
+The institute hosts many fests including Srijan - The cultural fest of IIT (ISM), Concetto - The Tech-fest, Parakram - Games and sports fest, Basant - The alumni re-union, and Pratibimb - The inter departmental cultural fest. Apart from these the institute also hosts inter-house sports and cultural competitions and technical fests of various departments.[44]
+
+Student Gymkhana
+The Students' Gymkhana[45] (SG) gives students a role in the administrative and academic governance of the Institute and helps them develop leadership and administrative skills. SG activities subordinate to academic activities. The SG functions through the Students' Senate and its Executive wing. The Senate is the Central Representative, Legislative and Supervisory body of the students. The student body is elected through Gymkhana elections held every year in the month of March.
+
+Sports & Physical Education Centre (SPEC)
+The professional world needs human force skilled in not only IQ, but also in EQ. The professional spheres require people to learn how to work as a part of a team, how to be in the company of the people who might not be complementary to your own self but working with each other to realize each other's potentials to the maximum, how to follow orders and deliver orders when time demands, how to work with your team to the end of the line. Looks like a lot to do, doesn't it? Well, we have got a straightforward solution for you to join a sports club. Welcome to our family of IIT ISM's Sports clubs!
+
+Placements
+IIT (ISM) Dhanbad has achieved a milestone in placements, with over 750 students securing placements the previous year.(This placement record is till 7 February 2024) The average package this year has reached up to 13.13 lakh rupees, although there has been a slight decrease. The highest package offered to students this year is 60 lakh rupees. Major companies offering job offers include Google, Microsoft, Accenture, Siemens, Tata Steel, Tata Motors, Jaguar Motors, and Land Rover, among others.
+
+
+
+
+
+
+Home
+MTech-2025
+Admission
+Alumni
+Department
+Faculty
+Officers & Staff
+Students
+About
+Academics
+Innovation
+International Relations
+Faculty & Staff Opening
+Placement
+Research
+
+All Faculty
+Faculties List
+
+Search By Department
+All A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+Prof. A Antony Selvan
+Mathematics & Computing
+Assistant Professor
+
+  antony[at]iitism[dot]ac[dot]in
+ +91-326-223-5526
+
+Prof. A K Pathak
+Petroleum Engineering
+Adjunct Professor
+
+  akhilendra56[at]iitism[dot]ac[dot]in
+ +91-326-223-5530
+
+Prof. A S Venkatesh
+Applied Geology
+Emeritus Professor
+
+  venkatesh[at]iitism[dot]ac[dot]in
+ +91-326-223-5466
+
+Prof. Aamna Khan
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  aamna[at]iitism[dot]ac[dot]in
+
+Prof. Aarti Kumari
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  Aarti[at]iitism[dot]ac[dot]in
+
+Prof. Abhay Kumar Singh
+Mathematics & Computing
+Associate Professor
+
+  abhay[at]iitism[dot]ac[dot]in
+ +91-326-223-5670
+
+Prof. Abhijeet Sethi
+Mechanical Engineering
+Inspire Faculty
+
+  abhijeetsethi[at]iitism[dot]ac[dot]in
+
+Prof. Abhishek Grover
+Electronics Engineering
+Assistant Professor
+
+  abhishekgrover[at]iitism[dot]ac[dot]in
+
+Prof. Abhishek Kumar Pandey
+Civil Engineering
+Assistant Professor
+
+  akpandey[at]iitism[dot]ac[dot]in
+ +91-326-223-5333
+
+Prof. Abhishek Kumar Singh
+Mathematics & Computing
+Associate Professor
+
+  abhishek[at]iitism[dot]ac[dot]in
+ +91-326-223-5118
+
+Prof. Aditi Sengupta
+Mechanical Engineering
+Assistant Professor
+
+  aditi[at]iitism[dot]ac[dot]in
+ +91-326-223-5242
+
+Prof. Aditya Kumar
+Chemical Engineering
+Associate Professor
+
+  aditya[at]iitism[dot]ac[dot]in
+ +91-326-223-5417
+
+Prof. Ahmed Sameer
+Humanities and Social Sciences
+Assistant Professor
+
+  sameer[at]iitism[dot]ac[dot]in
+ +91-326-223-5390
+
+Prof. Ajay Bhandari
+Mechanical Engineering
+Assistant Professor
+
+  ajayb[at]iitism[dot]ac[dot]in
+ +91-326-223-5347
+
+Prof. Ajay Mandal
+Petroleum Engineering
+Professor
+
+  ajay[at]iitism[dot]ac[dot]in
+ +91-326-223-5485
+
+Prof. Ajay Suri
+Petroleum Engineering
+Associate Professor
+
+  ajaysuri[at]iitism[dot]ac[dot]in
+ +91-326-223-5943
+
+Prof. Ajeet Yadav
+Mining Engineering
+Assistant Professor
+
+  ajeet[at]iitism[dot]ac[dot]in
+ +91-326-223-5725
+
+Prof. Ajit Kumar
+Mechanical Engineering
+Assistant Professor
+
+  ajit[at]iitism[dot]ac[dot]in
+ +91-326-223-7707018493
+
+Prof. Ajit Kumar Behura
+Humanities and Social Sciences
+Professor
+
+  ajitbehura[at]iitism[dot]ac[dot]in
+ +91-326-223-5499
+
+Prof. Ajoy Kumar Bhaumik
+Applied Geology
+Professor
+
+  ajoy[at]iitism[dot]ac[dot]in
+ +91-326-223-+91 0326 223 5684
+
+Prof. Akhilesh Prasad
+Mathematics & Computing
+Professor
+
+  aprasad[at]iitism[dot]ac[dot]in
+ +91-326-223-5666
+
+Prof. Akshay Gupta
+Civil Engineering
+Assistant Professor
+
+  akshaygupta[at]iitism[dot]ac[dot]in
+ +91-326-223-5539
+
+Prof. Alakesh Kalita
+Mathematics & Computing
+Assistant Professor
+
+  alakesh[at]iitism[dot]ac[dot]in
+
+Prof. Alik Sundar Majumdar
+Applied Geology
+Assistant Professor
+
+  asmajumdar[at]iitism[dot]ac[dot]in
+ +91-326-223-5450
+
+Prof. Alok Kumar Das
+Mechanical Engineering
+Professor
+
+  alokmech[at]iitism[dot]ac[dot]in
+ +91-326-223-5631
+
+Prof. Alok Sinha
+Environmental Science and Engineering
+Professor
+
+  Alok[at]iitism[dot]ac[dot]in
+ +91-326-223-91 326 223 5610
+
+Prof. Aman Kumar
+Mechanical Engineering
+Assistant Professor
+
+  amankumar[at]iitism[dot]ac[dot]in
+
+Prof. Aman Sikri
+Electronics Engineering
+Assistant Professor
+
+  amansikri[at]iitism[dot]ac[dot]in
+
+Prof. Amit Rai Dixit
+Mechanical Engineering
+Professor
+
+  amitraidixit[at]iitism[dot]ac[dot]in
+ +91-326-223-5620
+
+Prof. Amitava Adak
+Physics
+Assistant Professor
+
+  amitavaadak[at]iitism[dot]ac[dot]in
+ +91-326-223-5382
+
+Prof. Amitava Mandal
+Mechanical Engineering
+Associate Professor
+
+  amitava[at]iitism[dot]ac[dot]in
+ +91-326-223-5885
+
+Prof. Amitesh Kumar
+Electronics Engineering
+Associate Professor
+
+  amitesh[at]iitism[dot]ac[dot]in
+ +91-326-223-5759
+
+Prof. Anand Anupam
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  anand[at]iitism[dot]ac[dot]in
+ +91-326-223-5922
+
+Prof. Anand Rajagopal
+Applied Geology
+Associate Professor
+
+  anandr[at]iitism[dot]ac[dot]in
+ +91-326-223-5113
+
+Prof. Ananda Shankar Hati
+Electrical Engineering
+Assistant Professor
+
+  anandashati[at]iitism[dot]ac[dot]in
+ +91-326-223-5083
+
+Prof. Anil Kumar Chaubey
+Applied Geophysics
+Visiting Professor
+
+  akchaubey[at]iitism[dot]ac[dot]in
+ +91-326-223-5448
+
+Prof. Anil Kumar Nirala
+Physics
+Professor (HAG)
+
+  aknirala[at]iitism[dot]ac[dot]in
+ +91-326-223-5483
+
+Prof. Anindya Sinha
+Mining Engineering
+Professor Of Practice
+
+  anindya[at]iitism[dot]ac[dot]in
+ +91-326-223-5493
+
+Prof. Anirban Ghoshal
+Electrical Engineering
+Assistant Professor
+
+  anirbanghoshal[at]iitism[dot]ac[dot]in
+ +91-326-223-5433
+
+Prof. Anjan Chowdhury
+Computer Science and Engineering
+Assistant Professor
+
+  anjanchowdhury[at]iitism[dot]ac[dot]in
+
+Prof. Ankti Srivastava
+Civil Engineering
+Assistant Professor
+
+  ankti[at]iitism[dot]ac[dot]in
+
+Prof. Ankush Galav
+Mining Engineering
+Assistant Professor
+
+  ankushgalav[at]iitism[dot]ac[dot]in
+ +91-326-223-5419
+
+Prof. Annavarapu Chana Sekhara Rao
+Computer Science and Engineering
+Associate Professor
+
+  acsrao[at]iitism[dot]ac[dot]in
+ +91-326-223-5420
+
+Prof. Anshumali
+Environmental Science and Engineering
+Professor
+
+  anshumali[at]iitism[dot]ac[dot]in
+ +91-326-223-5645
+
+Prof. Antarip Poddar
+Mechanical Engineering
+Assistant Professor
+
+  antarip[at]iitism[dot]ac[dot]in
+
+Prof. Anup Krishna Prasad
+Applied Geology
+Associate Professor
+
+  anup[at]iitism[dot]ac[dot]in
+ +91-326-223-5177
+
+Prof. Anurag Jayswal
+Mathematics & Computing
+Professor
+
+  anurag[at]iitism[dot]ac[dot]in
+ +91-326-223-5656
+
+Prof. APARNA KRISHNA
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  aparna[at]iitism[dot]ac[dot]in
+ +91-326-223-5023
+
+Prof. Archana
+Petroleum Engineering
+Assistant Professor
+
+  archanabalikram[at]iitism[dot]ac[dot]in
+ +91-326-223-5939
+
+Prof. Arijit Baral
+Electrical Engineering
+Associate Professor
+
+  arijit[at]iitism[dot]ac[dot]in
+ +91-326-223-5151
+
+Prof. Aritra Santra
+Chemical Engineering
+Assistant Professor
+
+  aritrasantra[at]iitism[dot]ac[dot]in
+ +91-326-223-5227
+
+Prof. Arun Dayal Udai
+Mechanical Engineering
+Assistant Professor
+
+  arunudai[at]iitism[dot]ac[dot]in
+
+Prof. Arunkumar Samanta
+Chemical Engineering
+Professor
+
+  asamanta[at]iitism[dot]ac[dot]in
+
+Prof. Arup Kumar Pal
+Computer Science and Engineering
+Associate Professor
+
+  arupkrpal[at]iitism[dot]ac[dot]in
+ +91-326-223-5796
+
+Prof. Arvind Kumar Mishra
+Mining Engineering
+Professor (HAG) On Deputation As Director CIMFR
+
+  arvindmishra[at]iitism[dot]ac[dot]in
+ +91-326-223-5452
+
+Prof. Ashis Mallick
+Mechanical Engineering
+Professor
+
+  mallick[at]iitism[dot]ac[dot]in
+ +91-326-223-5131
+
+Prof. Ashok Das
+Mathematics & Computing
+Assistant Professor
+
+  ashokdas[at]iitism[dot]ac[dot]in
+ +91-326-223-5437
+
+Prof. ASHOK KUMAR
+Mining Engineering
+Assistant Professor
+
+  ashokmin[at]iitism[dot]ac[dot]in
+ +91-326-223-6015
+
+Prof. Ashok Kumar
+Electrical Engineering
+Assistant Professor
+
+  krashok[at]iitism[dot]ac[dot]in
+ +91-326-223-5335
+
+Prof. Ashutosh Kumar
+Petroleum Engineering
+Professor
+
+  akumar[at]iitism[dot]ac[dot]in
+
+Prof. Ashutosh Tripathy
+Applied Geology
+Assistant Professor
+
+  Ashutosh[at]iitism[dot]ac[dot]in
+ +91-326-223-0326 223 5318
+
+Prof. Asit Kumar Kar
+Physics
+Associate Professor
+
+  asit[at]iitism[dot]ac[dot]in
+ +91-326-223-5403
+
+Prof. Asmita Singha
+Chemistry and Chemical Biology
+Assistant Professor
+
+  asmita[at]iitism[dot]ac[dot]in
+
+Prof. Atul Kumar Verma
+Mathematics & Computing
+Assistant Professor
+
+  atulverma[at]iitism[dot]ac[dot]in
+ +91-326-223-5655
+
+Prof. Avanish Kumar
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  avanish[at]iitism[dot]ac[dot]in
+ +91-326-223-0326-223-5453
+
+Prof. Avijit Misra
+Physics
+Assistant Professor
+
+  avijitmisra[at]iitism[dot]ac[dot]in
+
+Prof. Avinash Kumar Singh
+Civil Engineering
+Assistant Professor
+
+  aksingh[at]iitism[dot]ac[dot]in
+ +91-326-223-5073
+
+Prof. Ayan Das
+Computer Science and Engineering
+Assistant Professor
+
+  ayandas[at]iitism[dot]ac[dot]in
+
+Prof. Badam Singh Kushvah
+Mathematics & Computing
+Professor
+
+  bskush[at]iitism[dot]ac[dot]in
+ +91-326-223-5765
+
+Prof. Bandita Barman
+Civil Engineering
+Assistant Professor
+
+  bandita[at]iitism[dot]ac[dot]in
+
+Prof. Barun Kumar Nandi
+Fuel, Minerals and Metallurgical Engineering
+Associate Professor
+
+  barun[at]iitism[dot]ac[dot]in
+ +91-326-223-5139
+
+Prof. Bhanwar Singh Choudhary
+Mining Engineering
+Professor
+
+  bhanwarschoudhary[at]iitism[dot]ac[dot]in
+
+Prof. Bhaskara Behera
+Mining Engineering
+Assistant Professor
+
+  bhaskara[at]iitism[dot]ac[dot]in
+ +91-326-223-3262235427
+
+Prof. Bhawana Singh
+Electrical Engineering
+Assistant Professor
+
+  bhawana[at]iitism[dot]ac[dot]in
+ +91-326-223-5442
+
+Prof. Bhukya Krishna Naick
+Electrical Engineering
+Assistant Professor
+
+  krishna2bk2ee[at]iitism[dot]ac[dot]in
+ +91-326-223-5654
+
+Prof. Bibhas Chana
+Management Studies and Industrial Engineering
+Associate Professor
+
+  bibhaschandra[at]iitism[dot]ac[dot]in
+ +91-326-223-5088
+
+Prof. BIDHAN CHANDRA
+Chemical Engineering
+Assistant Professor
+
+  BIDHAN[at]iitism[dot]ac[dot]in
+ +91-326-223-5434
+
+Prof. Binata Panda
+Physics
+Associate Professor
+
+  binata[at]iitism[dot]ac[dot]in
+ +91-326-223-5117
+
+Prof. Biplab Bhattacharyya
+Electrical Engineering
+Professor
+
+  biplab[at]iitism[dot]ac[dot]in
+ +91-326-223-0326 223 5418
+
+Prof. Biswajit Chowdhury
+Chemistry and Chemical Biology
+Professor (HAG)
+
+  biswajit72[at]iitism[dot]ac[dot]in
+ +91-326-223-5663
+
+Prof. Biswajit Paul
+Environmental Science and Engineering
+Professor
+
+  biswajit[at]iitism[dot]ac[dot]in
+ +91-326-223-5423
+
+Prof. Bobby Kachappilly Antony
+Physics
+Professor
+
+  bobby[at]iitism[dot]ac[dot]in
+ +91-326-223-5406
+
+Prof. Brijesh Kumar Mishra
+Environmental Science and Engineering
+Associate Professor
+
+  brijesh[at]iitism[dot]ac[dot]in
+ +91-326-223-5752
+
+Prof. Chanchal Haldar
+Chemistry and Chemical Biology
+Associate Professor
+
+  chanchal[at]iitism[dot]ac[dot]in
+ +91-326-223-5115
+
+Prof. Chandan Chakraborty
+Mechanical Engineering
+prof
+
+  cchakraborty21[at]outlook[dot]com
+ +91-326-223-11111
+
+Prof. Chandan Guria
+Petroleum Engineering
+Professor
+
+  cguria[at]iitism[dot]ac[dot]in
+ +91-326-223-5411
+
+Prof. Chandan Sahu
+Petroleum Engineering
+Assistant Professor
+
+  chandansahu[at]iitism[dot]ac[dot]in
+ +91-326-223-5544
+
+Prof. Chiranjeev Kumar
+Computer Science and Engineering
+Professor (HAG)
+
+  chiranjeev[at]iitism[dot]ac[dot]in
+ +91-326-223-5489
+
+Prof. Debjani Mitra
+Electronics Engineering
+Professor
+
+  debjanim[at]iitism[dot]ac[dot]in
+
+Prof. Deepak Kumar Mandal
+Mechanical Engineering
+Associate Professor
+
+  deepak[at]iitism[dot]ac[dot]in
+ +91-326-223-5058
+
+Prof. Deepika Sharma
+Humanities and Social Sciences
+Assistant Professor
+
+  deepika[at]iitism[dot]ac[dot]in
+ +91-326-223-0376- 2235128
+
+Prof. Devara Vijaya Bhaskar
+Electrical Engineering
+Associate Professor
+
+  devara[at]iitism[dot]ac[dot]in
+
+Prof. Devena Deo Pathak
+Chemistry and Chemical Biology
+Professor (HAG)
+
+  ddpathak[at]iitism[dot]ac[dot]in
+ +91-326-223-5281
+
+Prof. Devendra Chack
+Electronics Engineering
+Associate Professor
+
+  devendra[at]iitism[dot]ac[dot]in
+ +91-326-223-5660
+
+Prof. Devi Prasad Mishra
+Mining Engineering
+Professor
+
+  dpmishra[at]iitism[dot]ac[dot]in
+ +91-326-223-5407
+
+Prof. Dharavath Ramesh
+Computer Science and Engineering
+Associate Professor
+
+  drramesh[at]iitism[dot]ac[dot]in
+ +91-326-223-5795
+
+Prof. Dheeraj Kumar
+Mining Engineering
+Professor (HAG)
+
+  dheeraj[at]iitism[dot]ac[dot]in
+ +91-326-223-5486
+
+Prof. Dinabandhu Pradhan
+Mathematics & Computing
+Associate Professor
+
+  dina[at]iitism[dot]ac[dot]in
+ +91-326-223-5191
+
+Prof. Dipannita Chand
+Humanities and Social Sciences
+Assistant Professor
+
+  dipannita[at]iitism[dot]ac[dot]in
+ +91-326-223-5389
+
+Prof. Diti Goswami
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  ditigoswami[at]iitism[dot]ac[dot]in
+
+Prof. Dondapati Gopi Krishna
+Mining Engineering
+Assistant Professor
+
+  gopikrishna[at]iitism[dot]ac[dot]in
+ +91-326-223-5755
+
+Prof. Dushyant Sharma
+Electrical Engineering
+Assistant Professor
+
+  dushyant[at]iitism[dot]ac[dot]in
+ +91-326-223-+91-326-223-5159
+
+Prof. Ejaz Ahmad
+Chemical Engineering
+Assistant Professor
+
+  ejaz[at]iitism[dot]ac[dot]in
+ +91-326-223-5522
+
+Prof. Esha Kundu
+Physics
+Assistant Professor
+
+  eshakundu[at]iitism[dot]ac[dot]in
+ +91-326-223-5229
+
+Prof. Esha Saha
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  eshasaha[at]iitism[dot]ac[dot]in
+
+Prof. Gajena Kumar Vishwakarma
+Mathematics & Computing
+Associate Professor
+
+  vishwagk[at]iitism[dot]ac[dot]in
+ +91-326-223-5920
+
+Prof. Ganesh Chandra Nayak
+Chemistry and Chemical Biology
+Associate Professor
+
+  gcnayak[at]iitism[dot]ac[dot]in
+ +91-326-223-5934
+
+Prof. Garib Nath Singh
+Mathematics & Computing
+Professor (HAG)
+
+  gnsingh[at]iitism[dot]ac[dot]in
+ +91-326-223-5468
+
+Prof. Gaurav Jha
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  gauravjha[at]iitism[dot]ac[dot]in
+ +91-326-223-7488603830
+
+Prof. Gauri Shankar
+Electrical Engineering
+Associate Professor
+
+  gaurishankar[at]iitism[dot]ac[dot]in
+ +91-326-223-+91-326-2235633
+
+Prof. Giri Yellalacheruvu
+Applied Geophysics
+Visiting Assistant Professor
+
+  giriy[at]iitism[dot]ac[dot]in
+ +91-326-223-03262235945
+
+Prof. Gnananandh Budi
+Mining Engineering
+Assistant Professor
+
+  anandbudi[at]iitism[dot]ac[dot]in
+ +91-326-223-5767
+
+Prof. Govind Murmu
+Electronics Engineering
+Assistant Professor
+
+  govind[at]iitism[dot]ac[dot]in
+ +91-326-223-5123
+
+Prof. Govind Swaroop Pathak
+Management Studies and Industrial Engineering
+Professor
+
+  gspathak[at]iitism[dot]ac[dot]in
+ +91-326-223-5481
+
+Prof. Gyan Prakash
+Humanities and Social Sciences
+Associate Professor
+
+  gyan[at]iitism[dot]ac[dot]in
+ +91-326-223-5170
+
+Prof. Haider Banka
+Computer Science and Engineering
+Associate Professor
+
+  haider[at]iitism[dot]ac[dot]in
+ +91-326-223-5668
+
+Prof. Hari Om
+Computer Science and Engineering
+Assistant Professor
+
+  hari[at]iitism[dot]ac[dot]in
+ +91-326-223-5638
+
+Prof. Hari Pada Nayek
+Chemistry and Chemical Biology
+Associate Professor
+
+  hpnayek[at]iitism[dot]ac[dot]in
+ +91-326-223-5756
+
+Prof. Haswanth Vundavilli
+Electrical Engineering
+Assistant Professor
+
+  haswanth[at]iitism[dot]ac[dot]in
+ +91-326-223-5141
+
+Prof. Hemant Kumar Mishra
+Mathematics & Computing
+Assistant Professor
+
+  hemantmishra1124[at]iitism[dot]ac[dot]in
+
+Prof. Himanshu Bhusan Mishra
+Electronics Engineering
+Associate Professor
+
+  himanshu[at]iitism[dot]ac[dot]in
+ +91-326-223-5016
+
+Prof. Himanshu Gupta
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  himanshug[at]iitism[dot]ac[dot]in
+ +91-326-223-5965
+
+Prof. J K Pattanayak
+Management Studies and Industrial Engineering
+Professor (HAG)
+
+  jkpattanayak[at]iitism[dot]ac[dot]in
+ +91-326-223-5446
+
+Prof. Jairam Manam
+Physics
+Emeritus Fellow
+
+  jmanam[at]iitism[dot]ac[dot]in
+
+Prof. Jaisingh Thangaraj
+Electronics Engineering
+Associate Professor
+
+  jaisingh[at]iitism[dot]ac[dot]in
+
+Prof. Jayanta Das
+Mechanical Engineering
+Associate Professor
+
+  jayantadas[at]iitism[dot]ac[dot]in
+ +91-326-223-5941
+
+Prof. Jeevesh Kumar
+Electronics Engineering
+Assistant Professor
+
+  jeevesh[at]iitism[dot]ac[dot]in
+ +91-326-223-03262235457
+
+Prof. Jhasaketan Nayak
+Physics
+Associate Professor
+
+  nayakj[at]iitism[dot]ac[dot]in
+ +91-326-223-5121
+
+Prof. Jitendra Kumar
+Electronics Engineering
+Inspire Faculty
+
+  jitendrakumar[at]iitism[dot]ac[dot]in
+ +91-326-223-5455
+
+Prof. Jitendra Kumar
+Electronics Engineering
+Professor
+
+  jitendra[at]iitism[dot]ac[dot]in
+ +91-326-223-5402
+
+Prof. Joseph Rohan D'souza
+Applied Geology
+Assistant Professor
+
+  joseph[at]iitism[dot]ac[dot]in
+ +91-326-223-+91-326-233-5408
+
+Prof. Jyoti Dasgupta
+Mathematics & Computing
+Assistant Professor
+
+  jyotidasgupta[at]iitism[dot]ac[dot]in
+ +91-326-223-5051
+
+Prof. K Priya Ajit
+Mechanical Engineering
+Associate Professor
+
+  ajitkp[at]iitism[dot]ac[dot]in
+ +91-326-223-5877
+
+Prof. KABILAN B
+Mechanical Engineering
+Assistant Professor
+
+  Kabilan[at]iitism[dot]ac[dot]in
+ +91-326-223-3566
+
+Prof. Kailash Jha
+Mechanical Engineering
+Associate Professor
+
+  kjha[at]iitism[dot]ac[dot]in
+ +91-326-223-5436
+
+Prof. Kalyan Chatterjee
+Electrical Engineering
+Professor
+
+  kalyanchatterjee[at]iitism[dot]ac[dot]in
+ +91-326-223-5487
+
+Prof. Kalyan Kumar Singh
+Mechanical Engineering
+Associate Professor
+
+  kksingh[at]iitism[dot]ac[dot]in
+ +91-326-223-5747
+
+Prof. Kartick Chana Jana
+Electrical Engineering
+Associate Professor
+
+  kartick[at]iitism[dot]ac[dot]in
+ +91-326-223-5902
+
+Prof. KARTIKAY GUPTA
+Mathematics & Computing
+Assistant Professor
+
+  kartikay[at]iitism[dot]ac[dot]in
+ +91-326-223-5395
+
+Prof. Kashinath Pal
+Mining Engineering
+Assistant Professor
+
+  kashinath[at]iitism[dot]ac[dot]in
+
+Prof. Kasturi Sala
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  kasturi[at]iitism[dot]ac[dot]in
+
+Prof. Kaushal Kumar
+Physics
+Associate Professor
+
+  kkumar[at]iitism[dot]ac[dot]in
+ +91-326-223-5754
+
+Prof. Kaushik Mazumdar
+Electronics Engineering
+Associate Professor
+
+  kaushik[at]iitism[dot]ac[dot]in
+
+Prof. Keka Ojha
+Petroleum Engineering
+Professor
+
+  kekaojha[at]iitism[dot]ac[dot]in
+ +91-326-223-223-5484
+
+Prof. Kesavan Ravi
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  kesavanravi[at]iitism[dot]ac[dot]in
+
+Prof. Kironmala Chanda
+Civil Engineering
+Associate Professor
+
+  kironmala[at]iitism[dot]ac[dot]in
+ +91-326-223-326
+
+Prof. Kripamoy Sarkar
+Applied Geology
+Associate Professor
+
+  kripamoy[at]iitism[dot]ac[dot]in
+ +91-326-223-5111
+
+Prof. Krishna Sandilya Durbha
+Chemical Engineering
+Associate Professor
+
+  sandilya[at]iitism[dot]ac[dot]in
+
+Prof. Krishnendu Shaw
+Management Studies and Industrial Engineering
+Associate Professor
+
+  krishnendu[at]iitism[dot]ac[dot]in
+
+Prof. Kuthambalayan Sridhar Thyagaraj
+Management Studies and Industrial Engineering
+Associate Professor
+
+  thyagaraj[at]iitism[dot]ac[dot]in
+ +91-326-223-5904
+
+Prof. L A Kumaraswamidhas
+Mechanical Engineering
+Professor
+
+  lakdhas1978[at]iitism[dot]ac[dot]in
+ +91-326-223-326
+
+Prof. Leeza Malik
+Civil Engineering
+Assistant Professor
+
+  leeza[at]iitism[dot]ac[dot]in
+ +91-326-223-5394
+
+Prof. Lutukurthi D N V V Konda
+Chemical Engineering
+Assistant Professor
+
+  dnvvkonda[at]iitism[dot]ac[dot]in
+ +91-326-223-5907
+
+Prof. Madan Lal Chanavanshi
+Mechanical Engineering
+Assistant Professor
+
+  madan[at]iitism[dot]ac[dot]in
+ +91-326-223-5137
+
+Prof. Madhulika Gupta
+Chemistry and Chemical Biology
+Assistant Professor
+
+  madhulikagupta[at]iitism[dot]ac[dot]in
+ +91-326-223-5899
+
+Prof. Madhumanti Bhattacharyya
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  madhumanti[at]iitism[dot]ac[dot]in
+
+Prof. Madhumita Patel
+Environmental Science and Engineering
+Assistant Professor
+
+  madhumita[at]iitism[dot]ac[dot]in
+ +91-326-223-5553
+
+Prof. MAHENDRA NAKTUJI NANDANWAR
+Chemical Engineering
+Assistant Professor
+
+  nandanwar[at]iitism[dot]ac[dot]in
+ +91-326-223-5216
+
+Prof. Mahendra Yadav
+Chemistry and Chemical Biology
+Professor
+
+  mahendra[at]iitism[dot]ac[dot]in
+ +91-326-223-5428
+
+Prof. Mandlik Mangesh Mohan
+Physics
+Assistant Professor
+
+  mandlik[at]iitism[dot]ac[dot]in
+ +91-326-223-5091
+
+Prof. Manish Kumar Jain
+Environmental Science and Engineering
+Professor
+
+  manish[at]iitism[dot]ac[dot]in
+ +91-326-223-5476
+
+Prof. Manisha Verma
+Mathematics & Computing
+Assistant Professor
+
+  manisha[at]iitism[dot]ac[dot]in
+ +91-326-223-5314
+
+Prof. Manodipan Sahoo
+Electronics Engineering
+Associate Professor
+
+  manodipan[at]iitism[dot]ac[dot]in
+ +91-326-223-5146
+
+Prof. Manu Kurian
+Physics
+Assistant Professor
+
+  manukurian[at]iitism[dot]ac[dot]in
+
+Prof. Mauajama Firdaus
+Computer Science and Engineering
+Assistant Professor
+
+  mauajama[at]iitism[dot]ac[dot]in
+
+Prof. Md Mojibur Rahman
+Humanities and Social Sciences
+Associate Professor
+
+  mrahmanelt[at]iitism[dot]ac[dot]in
+ +91-326-223-5490
+
+Prof. Md Sikandar Azam
+Mechanical Engineering
+Associate Professor
+
+  mdsazam[at]iitism[dot]ac[dot]in
+ +91-326-223-5751
+
+Prof. Mohammad Soyeb Alam
+Mining Engineering
+Assistant Professor
+
+  msalam[at]iitism[dot]ac[dot]in
+ +91-326-223-5120
+
+Prof. Mohammed Hamid Siddique
+Petroleum Engineering
+Assistant Professor
+
+  mhsiddique[at]iitism[dot]ac[dot]in
+ +91-326-223-5430
+
+Prof. Mohd. Irfan
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  irfan[at]iitism[dot]ac[dot]in
+ +91-326-223-5158
+
+Prof. Mohit Agrawal
+Applied Geophysics
+Associate Professor
+
+  mohit[at]iitism[dot]ac[dot]in
+ +91-326-223-5957
+
+Prof. Mr Neetish Kumar Maurya
+Petroleum Engineering
+Assistant Professor
+
+  neetish[at]iitism[dot]ac[dot]in
+ +91-326-223-5068
+
+Prof. Mrinal Kanti Mukherjee
+Applied Geology
+Associate Professor
+
+  mrinal[at]iitism[dot]ac[dot]in
+ +91-326-223-5472
+
+Prof. Mrinal Sen
+Electronics Engineering
+Associate Professor
+
+  mrinalsen[at]iitism[dot]ac[dot]in
+ +91-326-223-5657
+
+Prof. Mrinalini Pandey
+Management Studies and Industrial Engineering
+Associate Professor
+
+  mrinalini[at]iitism[dot]ac[dot]in
+ +91-326-223-5639
+
+Prof. Mritunjay Kumar Singh
+Mathematics & Computing
+Professor (HAG)
+
+  drmks29[at]iitism[dot]ac[dot]in
+ +91-326-223-5488
+
+Prof. Mukul Kumar Das
+Electronics Engineering
+Professor
+
+  mukulkdas[at]iitism[dot]ac[dot]in
+ +91-326-223-5409
+
+Prof. Nabakumar Jana
+Mathematics & Computing
+Associate Professor
+
+  nabakumarjana[at]iitism[dot]ac[dot]in
+ +91-326-223-5460
+
+Prof. NAGA RAJIV LAKKANIGA
+Chemistry and Chemical Biology
+Assistant Professor
+
+  nagarajiv[at]iitism[dot]ac[dot]in
+
+Prof. Naresh Sharma
+Electronics Engineering
+Assistant Professor
+
+  nareshsharma[at]iitism[dot]ac[dot]in
+ +91-326-223-5540
+
+Prof. Neeru Bala
+Mathematics & Computing
+Assistant Professor
+
+  neerubala[at]iitism[dot]ac[dot]in
+ +91-326-223-5421
+
+Prof. Nikhil Tripathi
+Computer Science and Engineering
+Assistant Professor
+
+  nikhiltripathi[at]iitism[dot]ac[dot]in
+
+Prof. Nikkam Suresh
+Fuel, Minerals and Metallurgical Engineering
+Emeritus Professor
+
+  nikkam[at]iitism[dot]ac[dot]in
+ +91-326-223-326
+
+Prof. Niladri Das
+Management Studies and Industrial Engineering
+Professor
+
+  niladri[at]iitism[dot]ac[dot]in
+ +91-326-223-5649
+
+Prof. Niladri Patra
+Chemistry and Chemical Biology
+Associate Professor
+
+  npatra2[at]iitism[dot]ac[dot]in
+ +91-326-223-5425
+
+Prof. Niptika Jana
+Applied Geophysics
+Assistant Professor
+
+  niptikaj[at]iitism[dot]ac[dot]in
+
+Prof. Niranjan Kumar
+Mechanical Engineering
+Associate Professor
+
+  niranjan[at]iitism[dot]ac[dot]in
+ +91-326-223-+91-7707018492
+
+Prof. Nirban Manna
+Humanities and Social Sciences
+Associate Professor
+
+  nirban[at]iitism[dot]ac[dot]in
+ +91-326-223-5079
+
+Prof. Nirmal Kumar Singh
+Mechanical Engineering
+Professor
+
+  nirmal[at]iitism[dot]ac[dot]in
+ +91-326-223-5181
+
+Prof. Nirupama Mandal
+Electronics Engineering
+Associate Professor
+
+  nirupama[at]iitism[dot]ac[dot]in
+ +91-326-223-5106
+
+Prof. Nitai Pal
+Electrical Engineering
+Professor
+
+  nitai[at]iitism[dot]ac[dot]in
+ +91-326-223-5623
+
+Prof. Nitesh Kumar Sahu
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  nitesh[at]iitism[dot]ac[dot]in
+ +91-326-223-5158
+
+Prof. P.Saravanan
+Environmental Science and Engineering
+Professor
+
+  saravananpichiah[at]iitism[dot]ac[dot]in
+ +91-326-223-5995
+
+Prof. Paidinaidu Paluri
+Chemical Engineering
+Assistant Professor
+
+  naidu[at]iitism[dot]ac[dot]in
+ +91-326-223-5933
+
+Prof. Pankaj Kumar Jain
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  panku[at]iitism[dot]ac[dot]in
+ +91-326-223-5094
+
+Prof. Pankaj Mishra
+Physics
+Professor
+
+  pankaj[at]iitism[dot]ac[dot]in
+ +91-326-223-5669
+
+Prof. PANTULA DEVI PRIYANKA
+Chemical Engineering
+Assistant Professor
+
+  pantula[at]iitism[dot]ac[dot]in
+ +91-326-223-5797
+
+Prof. Paresh Kumar Nayak
+Electrical Engineering
+Associate Professor
+
+  paresh[at]iitism[dot]ac[dot]in
+ +91-326-223-5153
+
+Prof. Partha Pratim Mandal
+Applied Geophysics
+Assistant Professor
+
+  partham[at]iitism[dot]ac[dot]in
+ +91-326-223-5594
+
+Prof. Partha Sarathi Paul
+Mining Engineering
+Professor
+
+  drpspaul[at]iitism[dot]ac[dot]in
+ +91-326-223-5648
+
+Prof. Parthasarathi Das
+Chemistry and Chemical Biology
+Professor
+
+  partha[at]iitism[dot]ac[dot]in
+ +91-326-223-913262235012
+
+Prof. Patitapaban Sahu
+Mining Engineering
+Associate Professor
+
+  patitapaban[at]iitism[dot]ac[dot]in
+ +91-326-223-5161
+
+Prof. Pawan Gupta
+Petroleum Engineering
+Assistant Professor
+
+  pawang[at]iitism[dot]ac[dot]in
+ +91-326-223-5378
+
+Prof. Pawan Kumar Singh
+Mechanical Engineering
+Associate Professor
+
+  pawan[at]iitism[dot]ac[dot]in
+ +91-326-223-5135
+
+Prof. Pintu Prusty
+Applied Geology
+Assistant Professor
+
+  pintuprusty[at]iitism[dot]ac[dot]in
+ +91-326-223-5537
+
+Prof. Piyali Sengupta
+Civil Engineering
+Assistant Professor
+
+  piyali[at]iitism[dot]ac[dot]in
+ +91-326-223-5020
+
+Prof. Prabodha Ranjan Sahoo
+Applied Geology
+Associate Professor
+
+  prabodha[at]iitism[dot]ac[dot]in
+ +91-326-223-03262235112
+
+Prof. Pradip Kumar Sadhu
+Electrical Engineering
+Professor (HAG)
+
+  pradip[at]iitism[dot]ac[dot]in
+ +91-326-223-5478
+
+Prof. Pramod Kumar Kewat
+Mathematics & Computing
+Associate Professor
+
+  pramodk[at]iitism[dot]ac[dot]in
+ +91-326-223-5921
+
+Prof. Pranab Das
+Applied Geology
+Assistant Professor
+
+  pranab[at]iitism[dot]ac[dot]in
+ +91-326-223-5894
+
+Prof. Pranav Bisht
+Computer Science and Engineering
+Assistant Professor
+
+  pranav[at]iitism[dot]ac[dot]in
+
+Prof. Pranay Kumar Saha
+Computer Science and Engineering
+Assistant Professor
+
+  pranay[at]iitism[dot]ac[dot]in
+
+Prof. Pranesh Roy
+Civil Engineering
+Assistant Professor
+
+  pranesh[at]iitism[dot]ac[dot]in
+
+Prof. Prasanta K. Jana
+Computer Science and Engineering
+Professor (HAG)
+
+  prasantajana[at]iitism[dot]ac[dot]in
+ +91-326-223-5473
+
+Prof. Prashant Kumar Sharma
+Physics
+Associate Professor
+
+  prashant[at]iitism[dot]ac[dot]in
+ +91-326-223-5918
+
+Prof. PRASHANT KUMAR VARSHNEY
+Electronics Engineering
+Assistant Professor
+
+  pkvarshney[at]iitism[dot]ac[dot]in
+ +91-326-223-5383
+
+Prof. Prashanta Kumar Mahato
+Mechanical Engineering
+Professor
+
+  pkmahato[at]iitism[dot]ac[dot]in
+ +91-326-223-5646
+
+Prof. Prasoon Kumar Singh
+Environmental Science and Engineering
+Professor
+
+  pks0506[at]iitism[dot]ac[dot]in
+ +91-326-223-5415
+
+Prof. Preeti Roy
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  preetir[at]iitism[dot]ac[dot]in
+
+Prof. Prof. Vipin Kumar
+Environmental Science and Engineering
+Professor
+
+  vipinmicro1[at]iitism[dot]ac[dot]in
+ +91-326-223-5643
+
+Prof. Prosanta Kumar Khan
+Applied Geophysics
+Professor (HAG)
+
+  khanprosanta1966[at]iitism[dot]ac[dot]in
+ +91-326-223-5465
+
+Prof. Punyabeet Sarangi
+Civil Engineering
+Assistant Professor
+
+  punyabeet[at]iitism[dot]ac[dot]in
+ +91-326-223-5385
+
+Prof. R M Bhattacharjee
+Mining Engineering
+Professor
+
+  rmbhattacharjee[at]iitism[dot]ac[dot]in
+ +91-326-223-5089
+
+Prof. R. Thangavel
+Physics
+Associate Professor
+
+  rthangavel[at]iitism[dot]ac[dot]in
+ +91-326-223-5916
+
+Prof. Rabina Kumar Sinha
+Mining Engineering
+Associate Professor
+
+  rksinha[at]iitism[dot]ac[dot]in
+ +91-326-223-03262235718
+
+Prof. Rabindra Nath Hota
+Mechanical Engineering
+Professor
+
+  rnhota[at]iitism[dot]ac[dot]in
+ +91-326-223-5122
+
+Prof. Radhakanta Koner
+Mining Engineering
+Associate Professor
+
+  rkoner[at]iitism[dot]ac[dot]in
+ +91-326-223-5739
+
+Prof. Rahul Bhartiya
+Civil Engineering
+Assistant Professor
+
+  rahulb[at]iitism[dot]ac[dot]in
+
+Prof. Rahul Bhattacharya
+Electronics Engineering
+Assistant Professor
+
+  rahul[at]iitism[dot]ac[dot]in
+ +91-326-223-5129
+
+Prof. Rahul D R
+Humanities and Social Sciences
+Assistant Professor
+
+  rahuldr[at]iitism[dot]ac[dot]in
+ +91-326-223-5768
+
+Prof. Rahul M R
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  rahulmr[at]iitism[dot]ac[dot]in
+ +91-326-223-5381
+
+Prof. Raj Kiran
+Petroleum Engineering
+Assistant Professor
+
+  rajkiran[at]iitism[dot]ac[dot]in
+ +91-326-223-5324
+
+Prof. Raj Kumar Dishwar
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  rajkumardishwar[at]iitism[dot]ac[dot]in
+ +91-326-223-5570
+
+Prof. Rajasekhar Reddy Busigari
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  rajasekhar[at]iitism[dot]ac[dot]in
+
+Prof. Rajeev Kumar Ranjan
+Electronics Engineering
+Associate Professor
+
+  rajeev[at]iitism[dot]ac[dot]in
+ +91-326-223-5658
+
+Prof. Rajeev Upadhyay
+Petroleum Engineering
+Associate Professor
+
+  RajeevUpadhyay[at]iitism[dot]ac[dot]in
+ +91-326-223-5169
+
+Prof. Rajendra Kumar Dubey
+Applied Geology
+Professor
+
+  dubey[at]iitism[dot]ac[dot]in
+ +91-326-223-5637
+
+Prof. Rajendra Pamula
+Computer Science and Engineering
+Associate Professor
+
+  rajendra[at]iitism[dot]ac[dot]in
+ +91-326-223-5651
+
+Prof. Rajendra Prasad Giri
+Physics
+Assistant Professor
+
+  rpgiri[at]iitism[dot]ac[dot]in
+ +91-326-223-5225
+
+Prof. Rajib Sarkar
+Civil Engineering
+Associate Professor
+
+  rajib[at]iitism[dot]ac[dot]in
+ +91-326-223-5878
+
+Prof. Rajni Singh
+Humanities and Social Sciences
+Professor
+
+  rajnisingh18[at]iitism[dot]ac[dot]in
+ +91-326-223-5447
+
+Prof. Rakesh Kumar
+Mechanical Engineering
+Associate Professor
+
+  rakesh[at]iitism[dot]ac[dot]in
+ +91-326-223-5136
+
+Prof. Ram Bilash Choudhary
+Physics
+Associate Professor
+
+  rbchoudhary[at]iitism[dot]ac[dot]in
+ +91-326-223-5881
+
+Prof. Ramanababu Kaligatla
+Mathematics & Computing
+Associate Professor
+
+  ramana[at]iitism[dot]ac[dot]in
+ +91-326-223-5183
+
+Prof. Randip Kumar Das
+Mechanical Engineering
+Professor
+
+  randip[at]iitism[dot]ac[dot]in
+ +91-326-223-5479
+
+Prof. Ranjit Kumar Upadhyay
+Mathematics & Computing
+Professor (HAG)
+
+  ranjit[at]iitism[dot]ac[dot]in
+ +91-326-223-5482
+
+Prof. Rashmi Madhuri
+Chemistry and Chemical Biology
+Assistant Professor
+
+  rashmi[at]iitism[dot]ac[dot]in
+
+Prof. Rashmi Ranjan Das
+Mechanical Engineering
+Associate Professor
+
+  drrrdas[at]iitism[dot]ac[dot]in
+ +91-326-223-5198
+
+Prof. Rashmi Singh
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  rashmis[at]iitism[dot]ac[dot]in
+ +91-326-223-5616
+
+Prof. Ravi Kumar Gangwar
+Electronics Engineering
+Professor
+
+  ravi[at]iitism[dot]ac[dot]in
+ +91-326-223-5903
+
+Prof. Renu V
+Civil Engineering
+Assistant Professor
+
+  renuvalsala[at]iitism[dot]ac[dot]in
+ +91-326-223-5133
+
+Prof. RITWIK MONDAL
+Physics
+Assistant Professor
+
+  ritwik[at]iitism[dot]ac[dot]in
+ +91-326-223-5138
+
+Prof. Riya Dutta
+Environmental Science and Engineering
+Assistant Professor
+
+  riyadutta[at]iitism[dot]ac[dot]in
+ +91-326-223-ESE Dept, Room no 105
+
+Prof. Rohith P John
+Chemistry and Chemical Biology
+Associate Professor
+
+  rohithjohn[at]iitism[dot]ac[dot]in
+ +91-326-223-5665
+
+Prof. S. K. Padhi
+Chemistry and Chemical Biology
+Associate Professor
+
+  sumanta[at]iitism[dot]ac[dot]in
+ +91-326-223-5114
+
+Prof. S. P. Tiwari
+Mathematics & Computing
+Professor
+
+  sptiwari[at]iitism[dot]ac[dot]in
+ +91-326-223-5480
+
+Prof. SABNAM BASU
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  sabnambasu[at]iitism[dot]ac[dot]in
+
+Prof. Sachin Kumar Singh
+Mechanical Engineering
+Associate Professor
+
+  sachinks[at]iitism[dot]ac[dot]in
+ +91-326-223-5184
+
+Prof. Sachin Tripathi
+Computer Science and Engineering
+Associate Professor
+
+  sachin2781[at]iitism[dot]ac[dot]in
+ +91-326-223-5636
+
+Prof. Sagar Pal
+Chemistry and Chemical Biology
+Professor
+
+  sagarpal[at]iitism[dot]ac[dot]in
+ +91-326-223-5769
+
+Prof. Sahena Singh
+Applied Geology
+Professor
+
+  sahendra[at]iitism[dot]ac[dot]in
+ +91-326-223-5723
+
+Prof. Saifi Izhar
+Environmental Science and Engineering
+Assistant Professor
+
+  saifi[at]iitism[dot]ac[dot]in
+
+Prof. Sajal Kumar Giri
+Chemistry and Chemical Biology
+Assistant Professor
+
+  sajalgiri[at]iitism[dot]ac[dot]in
+
+Prof. Samrat Mukhopadhyay
+Electronics Engineering
+Assistant Professor
+
+  samrat[at]iitism[dot]ac[dot]in
+ +91-326-223-5388
+
+Prof. Sanatan Mandal
+Humanities and Social Sciences
+Assistant Professor
+
+  sanatanmandal[at]iitism[dot]ac[dot]in
+ +91-326-223-5134
+
+Prof. Sandeep Mondal
+Management Studies and Industrial Engineering
+Professor
+
+  sandeepmondal[at]iitism[dot]ac[dot]in
+ +91-326-223-5495
+
+Prof. Sandip Mandal
+Chemical Engineering
+Assistant Professor
+
+  Sandip[at]iitism[dot]ac[dot]in
+ +91-326-223-5237
+
+Prof. Sandipan Kumar Das
+Mechanical Engineering
+Professor
+
+  sandipan[at]iitism[dot]ac[dot]in
+ +91-326-223-5784
+
+Prof. Sangay Tamang
+Humanities and Social Sciences
+Assistant Professor
+
+  sangayt[at]iitism[dot]ac[dot]in
+ +91-326-223-5431
+
+Prof. Sanjay Kumar
+Electronics Engineering
+Inspire Faculty
+
+  sanjaykumar[at]iitism[dot]ac[dot]in
+ +91-326-223-NA
+
+Prof. Sanjeev Anand Sahu
+Mathematics & Computing
+Associate Professor
+
+  sanjeev[at]iitism[dot]ac[dot]in
+ +91-326-223-5917
+
+Prof. Sanjeev Kumar Raghuwanshi
+Electronics Engineering
+Professor
+
+  sanjeevrus77[at]iitism[dot]ac[dot]in
+
+Prof. Sanjit Kumar Pal
+Applied Geophysics
+Professor
+
+  sanjitismagp[at]iitism[dot]ac[dot]in
+ +91-326-223-5946
+
+Prof. Sanjoy K Ghoshal
+Mechanical Engineering
+Professor
+
+  sanjoykghoshal[at]iitism[dot]ac[dot]in
+
+Prof. Sanjoy Mandal
+Electrical Engineering
+Professor
+
+  sanjoymandal[at]iitism[dot]ac[dot]in
+
+Prof. Sanket Nayak
+Civil Engineering
+Associate Professor
+
+  sanket[at]iitism[dot]ac[dot]in
+ +91-326-223-5143
+
+Prof. Santanu Dwari
+Electronics Engineering
+Professor
+
+  santanu[at]iitism[dot]ac[dot]in
+
+Prof. Santimoy Kundu
+Mathematics & Computing
+Associate Professor
+
+  santimoykundu[at]iitism[dot]ac[dot]in
+ +91-326-223-5659
+
+Prof. Sarat Kumar Das
+Civil Engineering
+Professor
+
+  saratdas[at]iitism[dot]ac[dot]in
+ +91-326-223-5223
+
+Prof. Sarthak Sambit Singh
+Mechanical Engineering
+Assistant Professor
+
+  sarthakssingh[at]iitism[dot]ac[dot]in
+ +91-326-223-5320
+
+Prof. Satadru Das Adhikary
+Civil Engineering
+Associate Professor
+
+  satadru[at]iitism[dot]ac[dot]in
+
+Prof. Sathya Narayana Sharma
+Humanities and Social Sciences
+Assistant Professor
+
+  SATHYA[at]iitism[dot]ac[dot]in
+
+Prof. Satyabrata Sahoo
+Mechanical Engineering
+Associate Professor
+
+  satya[at]iitism[dot]ac[dot]in
+
+Prof. Saumen Maiti
+Applied Geophysics
+Associate Professor
+
+  saumen[at]iitism[dot]ac[dot]in
+ +91-326-223-5067
+
+Prof. Saumya Singh
+Management Studies and Industrial Engineering
+Professor
+
+  saumya[at]iitism[dot]ac[dot]in
+ +91-326-223-+91-326-2235497
+
+Prof. Saurabh Datta Gupta
+Applied Geophysics
+Associate Professor
+
+  saurabh[at]iitism[dot]ac[dot]in
+ +91-326-223-5072
+
+Prof. Saurabh Srivastava
+Computer Science and Engineering
+Assistant Professor
+
+  ssrivastava[at]iitism[dot]ac[dot]in
+ +91-326-223-5524
+
+Prof. SAYANTAN GHOSH
+Petroleum Engineering
+Assistant Professor
+
+  Sayantan[at]iitism[dot]ac[dot]in
+ +91-326-223-5235
+
+Prof. Scindhiya Laxmi
+Mathematics & Computing
+Assistant Professor
+
+  scindhiya[at]iitism[dot]ac[dot]in
+ +91-326-223-5319
+
+Prof. Sekhar Chana Dutta
+Civil Engineering
+Professor (HAG)
+
+  sekhar[at]iitism[dot]ac[dot]in
+ +91-326-223-5528
+
+Prof. Sethupathy S
+Electrical Engineering
+Assistant Professor
+
+  sethupathy[at]iitism[dot]ac[dot]in
+ +91-326-223-5554
+
+Prof. Shailena Narayan Singh
+Mechanical Engineering
+Associate Professor
+
+  snsingh[at]iitism[dot]ac[dot]in
+ +91-326-223-5491
+
+Prof. Shailendra Kumar Sharma
+Physics
+Professor
+
+  sksharma[at]iitism[dot]ac[dot]in
+ +91-326-223-5412
+
+Prof. Shalini Gautam
+Fuel, Minerals and Metallurgical Engineering
+Associate Professor
+
+  shalinigautam[at]iitism[dot]ac[dot]in
+ +91-326-223-5650
+
+Prof. Shalivahan
+Applied Geophysics
+Professor (HAG) On Deputation As Director IIPE
+
+  shalivahan[at]iitism[dot]ac[dot]in
+ +91-326-223-5475
+
+Prof. Shalu Rani
+Electronics Engineering
+Assistant Professor
+
+  shalu[at]iitism[dot]ac[dot]in
+
+Prof. Shanmugapriya T
+Humanities and Social Sciences
+Assistant Professor
+
+  shanmugapriya[at]iitism[dot]ac[dot]in
+
+Prof. SHASHANK BANSAL
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  shashank[at]iitism[dot]ac[dot]in
+ +91-326-223-5017
+
+Prof. Shatrughan Soren
+Fuel, Minerals and Metallurgical Engineering
+Associate Professor
+
+  ssoren[at]iitism[dot]ac[dot]in
+ +91-326-223-5652
+
+Prof. Sheeja Jagadevan
+Environmental Science and Engineering
+Associate Professor
+
+  sheejaj[at]iitism[dot]ac[dot]in
+ +91-326-223-5162
+
+Prof. Shibayan Sarkar
+Mechanical Engineering
+Associate Professor
+
+  shibayan[at]iitism[dot]ac[dot]in
+ +91-326-223-7707018488
+
+Prof. Shikha Singh
+Management Studies and Industrial Engineering
+Assistant Professor
+
+  shikhas[at]iitism[dot]ac[dot]in
+
+Prof. Shishir Gupta
+Mathematics & Computing
+Emeritus Professor
+
+  shishir[at]iitism[dot]ac[dot]in
+ +91-326-223-5464
+
+Prof. Shravan Kumar
+Fuel, Minerals and Metallurgical Engineering
+Associate Professor
+
+  shravan[at]iitism[dot]ac[dot]in
+ +91-326-223-5948
+
+Prof. Shreya Banerjee
+Physics
+Assistant Professor
+
+  shreya[at]iitism[dot]ac[dot]in
+
+Prof. Shubhi Gupta
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  shubhi[at]iitism[dot]ac[dot]in
+
+Prof. Shushanta Sarangi
+Applied Geology
+Professor
+
+  shushanta[at]iitism[dot]ac[dot]in
+ +91-326-223-5763
+
+Prof. Shushobhit Chaudhary
+Civil Engineering
+Assistant Professor
+
+  shushobhit[at]iitism[dot]ac[dot]in
+
+Prof. Shuvashree Mondal
+Mathematics & Computing
+Assistant Professor
+
+  shuvasri29[at]iitism[dot]ac[dot]in
+ +91-326-223-5458
+
+Prof. Shyam A B
+Electrical Engineering
+Assistant Professor
+
+  shyamab[at]iitism[dot]ac[dot]in
+ +91-326-223-5024
+
+Prof. Siddhartha Agarwal
+Mining Engineering
+Assistant Professor
+
+  sagarwal[at]iitism[dot]ac[dot]in
+ +91-326-223-5240
+
+Prof. Siddhartha Sengupta
+Chemical Engineering
+Associate Professor
+
+  siddhartha[at]iitism[dot]ac[dot]in
+ +91-326-223-5155
+
+Prof. Sk Riyajuddin
+Physics
+Inspire Faculty
+
+  skriyajuddin[at]iitism[dot]ac[dot]in
+ +91-326-223-5456
+
+Prof. Smruti Sourava Mohapatra
+Civil Engineering
+Associate Professor
+
+  smruti[at]iitism[dot]ac[dot]in
+ +91-326-223-5160
+
+Prof. Somnath Chattopadhyaya
+Mechanical Engineering
+Professor
+
+  somnathchattopadhyaya[at]iitism[dot]ac[dot]in
+
+Prof. Somnath Pan
+Electrical Engineering
+Professor
+
+  somnathpan[at]iitism[dot]ac[dot]in
+ +91-326-223-5451
+
+Prof. Somnath Yadav
+Chemistry and Chemical Biology
+Associate Professor
+
+  somnath[at]iitism[dot]ac[dot]in
+ +91-326-223-5880
+
+Prof. Sonam Acharya
+Electrical Engineering
+Assistant Professor
+
+  sonamacharya[at]iitism[dot]ac[dot]in
+ +91-326-223-5463
+
+Prof. Soubhik Kumar Bhaumik
+Chemical Engineering
+Associate Professor
+
+  soubhikge[at]iitism[dot]ac[dot]in
+
+Prof. Soumen Bag
+Computer Science and Engineering
+Associate Professor
+
+  soumen[at]iitism[dot]ac[dot]in
+ +91-326-223-5168
+
+Prof. Soumit Chatterjee
+Chemistry and Chemical Biology
+Associate Professor
+
+  soumit[at]iitism[dot]ac[dot]in
+ +91-326-223-5432
+
+Prof. Soumitra Maity
+Chemistry and Chemical Biology
+Associate Professor
+
+  smaity[at]iitism[dot]ac[dot]in
+ +91-326-223-5185
+
+Prof. Soumya Bagchi
+Physics
+Assistant Professor
+
+  sbagchi[at]iitism[dot]ac[dot]in
+ +91-326-223-5334
+
+Prof. Soumyabrata Barik
+Electrical Engineering
+Assistant Professor
+
+  soumyabrata[at]iitism[dot]ac[dot]in
+ +91-326-223-5443
+
+Prof. Soumyajit Sen Gupta
+Chemical Engineering
+Assistant Professor
+
+  soumyajit[at]iitism[dot]ac[dot]in
+ +91-326-223-5563
+
+Prof. Sourav Kumar Dey
+Chemistry and Chemical Biology
+Assistant Professor
+
+  souravdey[at]iitism[dot]ac[dot]in
+
+Prof. SOURAV SENGUPTA
+Chemical Engineering
+Assistant Professor
+
+  souravsengupta[at]iitism[dot]ac[dot]in
+ +91-326-223-5329
+
+Prof. Sowmiya Chawla
+Civil Engineering
+Associate Professor
+
+  sowmiya[at]iitism[dot]ac[dot]in
+ +91-326-223-5092
+
+Prof. Sridhar Sahu
+Physics
+Associate Professor
+
+  sridharsahu[at]iitism[dot]ac[dot]in
+ +91-326-223-5919
+
+Prof. Srinivas Pasupuleti
+Civil Engineering
+Associate Professor
+
+  srinivas[at]iitism[dot]ac[dot]in
+ +91-326-223-5100
+
+Prof. Srinivasa Rao Pentyala
+Mathematics & Computing
+Associate Professor
+
+  psrao[at]iitism[dot]ac[dot]in
+ +91-326-223-5766
+
+Prof. Sruti Kanungo
+Humanities and Social Sciences
+Assistant Professor
+
+  sruti[at]iitism[dot]ac[dot]in
+ +91-326-223-03762235078
+
+Prof. Subhankar Sen
+Mechanical Engineering
+Associate Professor
+
+  ssen[at]iitism[dot]ac[dot]in
+ +91-326-223-5188
+
+Prof. Subhas Chana Bhowmik
+Mining Engineering
+Adjunct Professor
+
+  bhowmik[at]iitism[dot]ac[dot]in
+
+Prof. Subhashis Chatterjee
+Mathematics & Computing
+Professor
+
+  subhashis[at]iitism[dot]ac[dot]in
+ +91-326-223-5441
+
+Prof. Subhendu Mishra
+Fuel, Minerals and Metallurgical Engineering
+Visiting Assistant Professor
+
+  subhendumishra[at]iitism[dot]ac[dot]in
+
+Prof. Subhrangsu Mandal
+Computer Science and Engineering
+Assistant Professor
+
+  subhrangsu[at]iitism[dot]ac[dot]in
+
+Prof. Subindu Kumar
+Electronics Engineering
+Professor
+
+  subindu[at]iitism[dot]ac[dot]in
+ +91-326-223-5732
+
+Prof. Subodh Kumar Maiti
+Environmental Science and Engineering
+Professor (HAG)
+
+  subodh[at]iitism[dot]ac[dot]in
+ +91-326-223-5467
+
+Prof. Subramanian Narayan
+Mechanical Engineering
+Associate Professor
+
+  narayan[at]iitism[dot]ac[dot]in
+ +91-326-223-5197
+
+Prof. Subrata Kumar Ghosh
+Mechanical Engineering
+Professor
+
+  subrata[at]iitism[dot]ac[dot]in
+ +91-326-223-03262235601
+
+Prof. Sucharita Maji
+Humanities and Social Sciences
+Assistant Professor
+
+  sucharita[at]iitism[dot]ac[dot]in
+ +91-326-223-5974
+
+Prof. Sudeshna Sen
+Physics
+Assistant Professor
+
+  sudeshna[at]iitism[dot]ac[dot]in
+
+Prof. Sudhakar Kumawat
+Mathematics & Computing
+Assistant Professor
+
+  sudhakar[at]iitism[dot]ac[dot]in
+
+Prof. Sudipto Singha Roy
+Physics
+Assistant Professor
+
+  sudipto[at]iitism[dot]ac[dot]in
+ +91-326-223-617H
+
+Prof. Sukanta Chakraborty
+Civil Engineering
+Associate Professor
+
+  sukanta[at]iitism[dot]ac[dot]in
+
+Prof. Sukanta Das
+Electrical Engineering
+Associate Professor
+
+  asksukanta[at]iitism[dot]ac[dot]in
+ +91-326-223-5653
+
+Prof. Sukanta Halder
+Electrical Engineering
+Assistant Professor
+
+  sukanta[dot]ee[at]iitism[dot]ac[dot]in
+ +91-326-223-5454
+
+Prof. Sukha Ranjan Samadder
+Environmental Science and Engineering
+Professor
+
+  samadder[at]iitism[dot]ac[dot]in
+
+Prof. Sukumar Mishra
+Electrical Engineering
+Professor & Director
+
+  NULL
+
+Prof. Suman Dutta
+Chemical Engineering
+Associate Professor
+
+  suman[at]iitism[dot]ac[dot]in
+ +91-326-223-5065
+
+Prof. Suman Saha
+Mechanical Engineering
+Assistant Professor
+
+  sumansaha[at]iitism[dot]ac[dot]in
+
+Prof. Sumanta Kumar Sahu
+Chemistry and Chemical Biology
+Associate Professor
+
+  sksahu[at]iitism[dot]ac[dot]in
+ +91-326-223-5936
+
+Prof. Sunil Kumar Gupta
+Environmental Science and Engineering
+Professor (HAG)
+
+  sunil[at]iitism[dot]ac[dot]in
+ +91-326-223-5474
+
+Prof. Suresh Kumar Yatirajula
+Chemical Engineering
+Assistant Professor
+
+  suresh[at]iitism[dot]ac[dot]in
+ +91-326-223-5906
+
+Prof. Suresh Pandian Elumalai
+Environmental Science and Engineering
+Associate Professor
+
+  espandian[at]iitism[dot]ac[dot]in
+ +91-326-223-5753
+
+Prof. Sushanta Mukhopadhyay
+Computer Science and Engineering
+Associate Professor
+
+  msushanta2001[at]iitism[dot]ac[dot]in
+ +91-326-223-5422
+
+Prof. Sushrut Das
+Electronics Engineering
+Professor
+
+  sushrut[at]iitism[dot]ac[dot]in
+ +91-326-223-5496
+
+Prof. Swagata Bhaumik
+Mechanical Engineering
+Assistant Professor
+
+  swagatabhaumik[at]iitism[dot]ac[dot]in
+ +91-326-223-5469
+
+Prof. Swapan Dey
+Chemistry and Chemical Biology
+Associate Professor
+
+  swapan[at]iitism[dot]ac[dot]in
+ +91-326-223-5607
+
+Prof. Swapnil Mishra
+Mining Engineering
+Assistant Professor
+
+  swapnil[at]iitism[dot]ac[dot]in
+ +91-326-223-5424
+
+Prof. Swarandeep Sahoo
+Applied Geophysics
+Assistant Professor
+
+  swarandeep[at]iitism[dot]ac[dot]in
+ +91-326-223-5438
+
+Prof. Swati Rajput
+Electronics Engineering
+Assistant Professor
+
+  swatirajput[at]iitism[dot]ac[dot]in
+
+Prof. Tamoghna Ojha
+Mathematics & Computing
+Assistant Professor
+
+  tamoghnaojha[at]iitism[dot]ac[dot]in
+ +91-326-223-GJLT 102
+
+Prof. Tanish Dey
+Civil Engineering
+Associate Professor
+
+  tanish[at]iitism[dot]ac[dot]in
+
+Prof. Tanmay Dutta
+Mechanical Engineering
+Assistant Professor
+
+  tanmay[at]iitism[dot]ac[dot]in
+ +91-326-223-5757
+
+Prof. Tanmoy Maity
+Electrical Engineering
+Professor
+
+  tanmoy[at]iitism[dot]ac[dot]in
+ +91-326-223-5729
+
+Prof. Tanusree Kaibartta
+Computer Science and Engineering
+Assistant Professor
+
+  tanusree2013[at]iitism[dot]ac[dot]in
+ +91-326-223-5126
+
+Prof. Tanweer Alam
+Mechanical Engineering
+Assistant Professor
+
+  tanweer[at]iitism[dot]ac[dot]in
+
+Prof. Tarachand Amgoth
+Computer Science and Engineering
+Associate Professor
+
+  tarachand[at]iitism[dot]ac[dot]in
+ +91-326-223-5520
+
+Prof. Tarkeshwar Kumar
+Petroleum Engineering
+Adjunct Professor
+
+  tkumarpe[at]iitism[dot]ac[dot]in
+ +91-326-223-5232
+
+Prof. Tarun Kumar Naiya
+Petroleum Engineering
+Associate Professor
+
+  tarunnaiya[at]iitism[dot]ac[dot]in
+ +91-326-223-5879
+
+Prof. Tinesh Pathania
+Environmental Science and Engineering
+Assistant Professor
+
+  tineshpathania[at]iitism[dot]ac[dot]in
+
+Prof. TUSHARKANTI DEY
+Physics
+Assistant Professor
+
+  tushar[at]iitism[dot]ac[dot]in
+ +91-326-223-5341
+
+Prof. Udayabhanu G
+Chemistry and Chemical Biology
+Professor (HAG)
+
+  udayabhanu[at]iitism[dot]ac[dot]in
+
+Prof. Udita Bansal
+Applied Geology
+Assistant Professor
+
+  ubansal[at]iitism[dot]ac[dot]in
+ +91-326-223-5317
+
+Prof. Ugrasen Singh
+Electronics Engineering
+Assistant Professor
+
+  ugrasen[at]iitism[dot]ac[dot]in
+ +91-326-223-5344
+
+Prof. Ujjal Kumar Borah
+Applied Geophysics
+Assistant Professor
+
+  ujjalborah[at]iitism[dot]ac[dot]in
+
+Prof. Umakanta Tripathy
+Physics
+Associate Professor
+
+  utripathy[at]iitism[dot]ac[dot]in
+ +91-326-223-5180
+
+Prof. Upama Dutta
+Applied Geology
+Associate Professor
+
+  upama[at]iitism[dot]ac[dot]in
+ +91-326-223-5070
+
+Prof. Upendra K. Singh
+Applied Geophysics
+Professor
+
+  upendra[at]iitism[dot]ac[dot]in
+ +91-326-223-5606
+
+Prof. V M S R Murthy
+Mining Engineering
+Professor (HAG) On Deputation As Director IIEST Shibpur
+
+  vmsrmurthy[at]iitism[dot]ac[dot]in
+ +91-326-223-5445
+
+Prof. Vasanta Govind Kumar Villuri
+Mining Engineering
+Associate Professor
+
+  vgkvilluri[at]iitism[dot]ac[dot]in
+ +91-326-223-5069
+
+Prof. Vedantham Lakshmi Srinivas
+Electrical Engineering
+Assistant Professor
+
+  vlsrinivas[at]iitism[dot]ac[dot]in
+ +91-326-223-0326-223-5174
+
+Prof. Vikas Mahto
+Petroleum Engineering
+Professor
+
+  vikas[at]iitism[dot]ac[dot]in
+ +91-326-223-5498
+
+Prof. Vinay Kumar Rajak
+Petroleum Engineering
+Assistant Professor
+
+  vinayrajak[at]iitism[dot]ac[dot]in
+ +91-326-223-03262235938
+
+Prof. Vineet Kumar Rai
+Physics
+Professor
+
+  vineetkrrai[at]iitism[dot]ac[dot]in
+
+Prof. Vinod Kumar Singh
+Physics
+Associate Professor
+
+  vksingh[at]iitism[dot]ac[dot]in
+ +91-326-223-5641
+
+Prof. Vishnu Teja Mantripragada
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  vishnuteja[at]iitism[dot]ac[dot]in
+
+Prof. Vishwas Nandkishor Khatri
+Civil Engineering
+Associate Professor
+
+  vishwas[at]iitism[dot]ac[dot]in
+ +91-326-223-03262235018
+
+Prof. Vittal H
+Environmental Science and Engineering
+Assistant Professor
+
+  vittal[at]iitism[dot]ac[dot]in
+
+Prof. Vivek Bajpai
+Mechanical Engineering
+Associate Professor
+
+  vivek[at]iitism[dot]ac[dot]in
+ +91-326-223-5075
+
+Prof. Vivek Kumar Sahu
+Fuel, Minerals and Metallurgical Engineering
+Assistant Professor
+
+  viveksahu[at]iitism[dot]ac[dot]in
+ +91-326-223-326
+
+Prof. Vivekananda Mukherjee
+Electrical Engineering
+Associate Professor
+
+  vivekananda[at]iitism[dot]ac[dot]in
+
+Prof. Yericharla Mary Asha Latha
+Electronics Engineering
+Assistant Professor
+
+  ymashalatha[at]iitism[dot]ac[dot]in
+
+Prof. Zafar Alam
+Mechanical Engineering
+Assistant Professor
+
+  zafar[at]iitism[dot]ac[dot]in
+ +91-326-223-5346
+
+Prof.  Sarun P M
+Physics
+Associate Professor
+
+  sarun[at]iitism[dot]ac[dot]in
+ +91-326-223-5887
+Quick Links/Resources
+Admission Guideline and Fee Structure of Foreign Student
+Campus Life
+Campus Tour
+Study in India
+Student Verification
+Contingency Rules/Guidelines for Ph.D/M.Tech/ IPDF students
+Health Centre
+GJLT Booking
+
+User Visit: 
+web hit counter
+ Last Update:  21-03-2025 07:56:00 PM
+
+
+
+
+
+
+
+
+
+
+Assets
+The Institutes of Technology Act 1961
+ICC
+Payment
+Digital Life Certificate
+RTI
+Telephone Directory
+Internal People User
+Copyright © 2025 All Rights Reserved || Designed & Developed by - WEBSTEP TECHNOLOGIES PRIVATE LIMITED
+
+
+
+
+
+About IIT ISM
+The Indian National Congress at its XVII Session of December 1901 passed a resolution stating that “in view of the fact that the tendency of recent legislation namely, The Indian Mines Act VII of 1901, is that all Indian mines must be kept under the supervision of mining experts, the Congress is of opinion that a Government College of Mining Engineering be established in some suitable place in India on the models of the Royal School of Mines in England, Mining Colleges of Japan and at other places in the continent”. The McPherson Committee formed by Govt. of India, recommended the establishment of an institution for imparting education in the fields of Mining and Geology, whose report, submitted in 1920, formed the main basis for establishment of the Indian School of Mines, Dhanbad. The Indian School of Mines was formally opened on 9th December 1926, by Lord Irwin, the then Viceroy of India to address the need for trained manpower related to mining activities in the country with disciplines of Mining and Applied Geology. In 1967 it was granted the status of a deemed to be university under Section 3 of UGC Act, 1956. Since its establishment, IIT(ISM) has undergone considerable expansion of its activities, and presently it can be considered as a total technology education institute.
+Overview
+
+Administration
+The Indian Institute of Technology (Indian School of Mines) constituted under Institute of Technology Act, 1961 is administered through IIT Council-the apex body, Government of India under the Chairmanship of Honourable Minister, MoE for uniform and smooth governance of Pan-IIT in our country.
+
+
+Our Vision and Mission
+To be a nationally and internationally acclaimed premier institution of higher technical and scientific education with social commitment having an ethos for intellectual excellence, where initiative is nurtured, where new ideas, research and scholarship flourish, where intellectual honesty is the norm and from which will emerge the leaders and innovators of tomorrow in the realm of technology.
+
+
+
+History of IIT ISM
+The Indian School of Mines was formally opened on 9th December 1926, by Lord Irwin, the then Viceroy of India to address the need for trained manpower related to mining activities in the country with disciplines of Mining and Applied Geology. In 1967 it was granted the status of a deemed to be university under Section 3 of UGC Act, 1956. Since its establishment, IIT(ISM) has undergone considerable expansion of its activities, and presently it can be considered as a total technology education institute.
+History and Discovery
+ 
+Start
+ 
+Dec 1901
+The Indian National Congress passed a resolution at its XVII session stating that: “in view of the fact that the tendency of recent legislation namely, The Indian Mines Act VII of 1901, is that all Indian mines must be kept under the supervision of mining experts, the Congress is of opinion that a Government College of Mining Engineering be established in some suitable place in India on the models of the Royal School of Mines in England, Mining Colleges of Japan and at other places in the continent.
+
+1920
+The McPherson Committee formed by the Government of British India submitted its report recommending the establishment of an institution for imparting education in the fields of mining and geology.
+
+    
+1924
+The association of Indian Mine Managers’ approached the government demanding the execution of the McPherson committee’s report.
+
+1926
+1.Recurring exigencies for the inception of such an institute formed the primary basis for the establishment of the ‘Indian School of Mines & Applied Geology’ at Dhanbad by the hands of the then Viceroy Lord Irwin on 9th December 1926.
+2.Institute’s general work commenced with Dr. David Penman as its first founder-principal. The institute offered courses solely in Mining Engineering and Applied Geology.
+
+1936
+Dr. C. Forrester took over the institute as its new principal (1936-1948).
+
+    
+1953
+Dr. Rajendra Prasad, the then President of India, inaugurated the celebrations on the silver jubilee of the institute, giving it an entirely fresh impetus.
+
+1957
+The institute began offering courses in Petroleum Engineering and Applied Geophysics. Its name was changed to ‘Indian School of Mines (ISM)’.
+
+ 
+
+1964
+Petroleum engineers organized the biggest student strike in the history of the institute, causing ONGC (Oil and Natural Gas Corporation Limited) to come for campus recruitment.
+
+    
+1967
+1.Faculty recruitment process underwent a massive change, discarding the original procedure of hiring faculties through Union Public Service Commission (UPSC).
+2.The school was granted the ‘university status’ by the University Grants Commission under Section 3 of the University Grants Commission Act, 1956.
+
+1975
+ISM began offering courses in Mining Machinery Engineering.
+
+ 
+
+1976
+New courses in Fuel and Mineral Engineering were also introduced on the pretext of the institute’s golden jubilee.
+
+    
+1977
+New courses Electronics Engineering introduced.
+
+1989
+1. New courses Department of Chemistry introduced
+2. New courses Department of Physics introduced.
+3. New courses Department of Mathematics & Computing introduced.
+
+1996-97
+Ministry of Human Resource Development(MHRD), Government of India took over the control of the institute, bringing the perks and pay scales of its employees on par with those of Indian Institutes of Technology (IIT’s) and Indian Institutes of Management (IIM’s).
+
+    
+1997
+1.The institute began admitting students through IIT Joint Entrance Examination (IIT-JEE) conducted jointly by the IIT’s and ISM.
+2. New courses Computer Science and Engineering introduced.
+
+1998
+Dr. A.P.J. Abdul Kalam, the would-be President of India, addressed the 20th convocation, sharing his words of wisdom with the young grads of the institute.
+
+1999
+The institute initiated a bachelor of technology course in Mechanical Engineering.
+
+    
+2005
+New courses Electrical Engineering introduced.
+
+2007
+New courses Environmental Engineering introduced.
+
+ 
+
+2010
+New Chemical Engineering introduced.
+
+    
+2016
+The long run of Indian School of Mines (ISM) came to an end, for it had now been awarded the tag of an Indian Institute of Technology (IIT) on 6th September 2016.
+
+2014
+1.Shri Pranab Mukherjee graced the 36th convocation with his presence.
+2.A joint statement was made on 18th November 2014 by our Honourable Prime Ministers of India and Australia to explore opportunities partnerships between Australian Institutions and Indian School of Mines, Dhanbad in the area of Clean Coal and Energy Technologies. Prime Minister Turnbull even briefed Prime Minister Modi on the Australia-India mining partnership at IIT (ISM) Dhanbad. Partnership activities include research and development collaboration, along with training and technology transfer.
+3.The institute instigated courses on Engineering Physics.
+
+ 
+
+2013
+Civil Engineering was introduced into the institute’s curriculum.
+
+    
+2017
+1.A four-member team from the institute successfully discovered a 30-million ton Manganese ore deposits worth Rs 36000 crore, winning a mention from the then Union human resource and development (UHRD) minister Shri Prakash Javadekar.
+
+
+
+
+List of Faculty In Charge
+
+Prof. Rajeev Upadhyay
+Faculty-in-Charge
+(Alumni Affairs)
+
+  ficaa[at]iitism[dot]ac[dot]in
+  Not Available
+
+Prof. Saurabh Srivastava
+Faculty-in-Charge
+(Automation Centre)
+
+  ficau[at]iitism[dot]ac[dot]in
+  Not Available
+
+Prof. Prabodha Ranjan Sahoo
+Faculty-in-Charge
+(Documentation & Ranking Cell)
+
+  ficdr[at]iitism[dot]ac[dot]in
+  Not Available
+
+Prof. Anand Rajagopal
+Faculty-in-Charge
+(Incubation & Entrepreneurship)
+
+  ficincne[at]iitism[dot]ac[dot]in
+  Not Available
+
+Dr Rahul Bhartiya
+Faculty-in-Charge
+(Infrastructure Civil)
+
+  ficaa[at]iitism[dot]ac[dot]in
+  Not Available
+
+Dr Dushyant Sharma
+Faculty-in-Charge
+(Infrastructure Electrical)
+
+  ficie[at]iitism[dot]ac[dot]in
+  Not Available
+
+Prof. Ajit Kumar
+Faculty-in-Charge
+(Innovation & Skill Development)
+
+  ficisd[at]iitism[dot]ac[dot]in
+  Not Available
+
+Prof. Gauri Shankar
+Faculty-in-Charge
+(International Relations)
+
+  ficir[at]iitism[dot]ac[dot]in
+  Not Available
+
+Dr Jaisingh Thangaraj
+Faculty-in-Charge
+(Network & Systems)
+
+  ficns[at]iitism[dot]ac[dot]in
+  Not Available
+
+Prof. Ejaz Ahmad
+Faculty-in-Charge
+(Sponsored Research& Industrial Consultancy)
+
+  fic_sric[at]iitism[dot]ac[dot]in
+  Not Available
+
+Dr Kironmala Chanda
+Faculty-in-Charge
+(Undergraduate)
+
+  ficug[at]iitism[dot]ac[dot]in
+  
+
+
+  iit-ism-logo
+Students' Welfare
+Indian Institute of Technology (Indian School of Mines)
+Dhanbad - 826004
+Home
+Information
+Scholarship
+Counselling
+Hostel Affairs
+Students' Activities
+Students' Gymkhana
+Student Activities
+
+Students' Gymkhana (SG)
+The objective of a Students’ Gymkhana (SG) is to give students a role in the administrative and academic governance of the Institute and help them develop leadership and administrative skills. SG activities will be subordinate to academic activities. The SG shall function through the Students’ Senate and its Executive wing. The Senate shall be the Central Representative, Legislative and Supervisory body of the students and shall:
+serve as the main forum of expression of student opinion.
+be in continuous touch with the General Body (GB), consult the students, and act as a feedback system.
+act as the central policy making body of the SG.
+guide and check the functioning of the Executive wing of the SG.
+The Senate shall comprise of students representing from all academic programmes.
+Read more...
+
+
+Sports & Physical Education Centre (SPEC)
+The professional world needs human force skilled in not only IQ, but also in EQ. The professional spheres require people to learn how to work as a part of a team, how to be in the company of the people who might not be complementary to your own self but working with each other to realise each other's potentials to the maximum, how to follow orders and deliver orders when time demands, how to work with your team to the end of the line. Looks like a lot to do doesn't it? Well, we have got a straightforward solution for you to join a sports club. Welcome to our family of IIT ISM's Sports clubs!
+Read more...
+
+
+Technical Activities
+Being a technical college, we have a lot of technical activities all around the year to enhance the technical skills in our student, which can not be gained by having theoretical knowledge but only by applying them. We have our annual techno-management fest Concetto, organised completely by students and guided by professors. Then we also have different students club where students having interests come together and do some innovative.
+Technical Clubs (Student Coordinators & Faculty Advisors)
+Astronomy Club(ARKA).
+Automotive Club (Mechismu).
+Coding and Cyber club (CyberLabs).
+Electronics club.
+Entrepreneurship Club (E-cell).
+Robotics and Artificial Intelligence Club (RoboISM).
+Counsellor, Science & Technology (SG): Prof. Arun D. Udai, Dept. of Mech. Eng.
+
+Cultural Activities
+After a hard day of work attending classes and practical labs, the Student Activity Centre comes alive with budding artists exploring all they wished to do. So if you dreamt of becoming an actor, or a photographer or a fluent speaker or an artist, this is the place for you! Here you’ll find the future leaders debating issues, future actors, directors, screenplay writers and videographers bringing great plays to life, future singers mesmerising crowds, great artists and quizzers in the making and much more! IIT(ISM), Dhanbad has an amazing community of students who excel in literary skills, performing arts (music, dance, dramatics and stand-up comedy), fine arts, photography, filmmaking, quizzing and book discussions with dedicated cultural clubs for all of them. The college enables its students in honing their skills to make them the complete recipe for excellence so that with a strong command on technical skills and sheer brilliance in terms of soft skills, they can rule the world. The grand finale of our activiites, Srijan is celeberated evey year during February.
+Cultural and Arts Clubs (Student Coordinators & Faculty Advisors)
+Book Club.
+Dance Club: WTC - We the Crew and LITM - Legends in the Making.
+Dramatics club (ADC - Abhay Daramatics club).
+Fine arts club (Artfreaks).
+Literary clubs - English (LITC ).
+Literary club - Hindi (Chayanika).
+Music Club (Manthan).
+Photography Club (Fotofreaks).
+Quiz Club.
+Udaan.
+Videography Club (LCI - Lights Camera ISM).
+Mic.Drop Toastmasters Club.
+Counsellor, Media & Culture (SG): Prof. Soumit Chatterjee, Dept. of Chemistry.
+ Address
+Student Activity Center
+IIT(ISM), Dhanbad - 826004
+
+Contact
+ 0326-2235205
+ dean_sw@iitism.ac.in
+
+© DSW IIT (ISM) | All Rights Reserved |
