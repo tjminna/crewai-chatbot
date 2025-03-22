@@ -1,11 +1,18 @@
 import streamlit as st
 from pymongo import MongoClient
 from crewai import Agent, Task, Crew
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 import os
 
+from dotenv import load_dotenv
 
-with open("backstory.txt", "r") as f:
+load_dotenv()
+
+
+
+
+
+with open("backstory.txt", "r", encoding="utf-8") as f:
     backstory = f.read()
 
 # === Load memory from MongoDB ===
@@ -41,7 +48,7 @@ def create_crew_agent(memory):
         backstory=backstory,
         verbose=True,
         allow_delegation=False,
-        llm=ChatOpenAI(model="gpt-4o-mini"),
+        llm=ChatOpenAI(model=os.getenv("MODEL")),
         system_prompt=system_prompt
     )
 
