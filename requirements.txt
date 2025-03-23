@@ -6,6 +6,3 @@ python-dotenv
 langchain-community
 langchain-openai
 pysqlite3-binary
-sqlite3
-libsqlite3-dev
-pysqlite3-binary
