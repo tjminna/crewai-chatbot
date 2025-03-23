@@ -1,39 +1,21 @@
 import streamlit as st
-from pymongo import MongoClient
 from crewai import Agent, Task, Crew
 from langchain_community.chat_models import ChatOpenAI
 import os
-
 from dotenv import load_dotenv
 
 load_dotenv()
 
+# === In-memory agent details ===
+memory = {
+    "agent_name": "ISMAgent",
+    "built_by": "Minna T J",
+    "works_at": "IIT Dhanbad"
+}
 
-
-
-
+# === Load backstory ===
 with open("backstory.txt", "r", encoding="utf-8") as f:
     backstory = f.read()
-
-# === Load memory from MongoDB ===
-def get_agent_memory():
-    client = MongoClient("mongodb://localhost:27017/")
-    db = client["ism_chatbot"]
-    collection = db["agent_info"]
-
-    if collection.count_documents({"agent_name": "ISMAgent"}) == 0:
-        collection.insert_one({
-            "agent_name": "ISMAgent",
-            "built_by": "Minna T J",
-            "works_at": "IIT Dhanbad"
-        })
-
-    agent_data = collection.find_one({"agent_name": "ISMAgent"})
-    return {
-        "agent_name": agent_data["agent_name"],
-        "built_by": agent_data["built_by"],
-        "works_at": agent_data["works_at"]
-    }
 
 # === Create CrewAI Agent ===
 def create_crew_agent(memory):
@@ -56,7 +38,7 @@ def create_crew_agent(memory):
 def get_agent_response(agent, message):
     task = Task(
         description=message,
-        expected_output="A helpful and accurate response to the user's question. If user ask unrelated questions, you should politely redirect them to the right topic.",
+        expected_output="A helpful and accurate response to the user's question. If user asks unrelated questions, politely redirect them to the right topic.",
         agent=agent
     )
     crew = Crew(
@@ -67,14 +49,11 @@ def get_agent_response(agent, message):
     result = crew.kickoff()
     return result
 
-
-
 # === Streamlit UI ===
 st.set_page_config(page_title="ISMAgent Chatbot", page_icon="🤖")
 st.title("🤖 ISMAgent Chatbot")
 
-# Load memory and agent
-memory = get_agent_memory()
+# Load agent
 agent = create_crew_agent(memory)
 
 # User input and response

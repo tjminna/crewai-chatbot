@@ -1,9 +1,7 @@
-streamlit==1.32.2
-pymongo==4.6.3
-crewai==0.22.5
-langchain==0.1.17
-openai==1.14.3
-python-dotenv==1.0.1
-langchain-community==0.0.34
-chromadb==0.4.24
-langchain-openai==0.1.6
+streamlit
+crewai
+langchain
+openai
+python-dotenv
+langchain-community
+langchain-openai
